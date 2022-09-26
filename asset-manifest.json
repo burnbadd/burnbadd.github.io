@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6ef69569.css",
-    "main.js": "/static/js/main.e2d402b9.js",
+    "main.js": "/static/js/main.a98e6944.js",
     "static/media/SOL2016.pdf": "/static/media/SOL2016.3e9b09e4a328fb4739d0.pdf",
     "static/media/SOL2019.pdf": "/static/media/SOL2019.200f37e94e76630c8883.pdf",
     "static/media/SOL2011.pdf": "/static/media/SOL2011.b3cea16db489b0a87802.pdf",
@@ -40,10 +40,10 @@
     "static/media/2010.pdf": "/static/media/2010.d1ccd371e9f1fd5fea58.pdf",
     "index.html": "/index.html",
     "main.6ef69569.css.map": "/static/css/main.6ef69569.css.map",
-    "main.e2d402b9.js.map": "/static/js/main.e2d402b9.js.map"
+    "main.a98e6944.js.map": "/static/js/main.a98e6944.js.map"
   },
   "entrypoints": [
     "static/css/main.6ef69569.css",
-    "static/js/main.e2d402b9.js"
+    "static/js/main.a98e6944.js"
   ]
 }
